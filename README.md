@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Abhay Rahangadle</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-<img src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-2-YX4ZEeEEnwI13r0K.gif" width="350" hight="350">
+<img align="right" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/web-development-2-YX4ZEeEEnwI13r0K.gif" width="400">
 
 - 🌱 I’m currently learning **Web Development**
 
